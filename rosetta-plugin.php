@@ -3,7 +3,7 @@
 	Plugin Name: Rosetta plugin free
 	Plugin URI:
 	Description: Add language versions to all type of posts. It's free version with some limitations.
-	Version: 1.0 #1
+	Version: 1.0
 	Author: Frumatic
 	Author URI:
  */

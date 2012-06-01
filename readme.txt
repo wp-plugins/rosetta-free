@@ -1,4 +1,4 @@
-=== Rosetta plugin ===
+﻿=== Rosetta plugin ===
 
 Contributors: !wordpress users! (this should be a list of wordpress.org userid's)
 Donate link: http://store.theme.fm/plugins/rosetta/
