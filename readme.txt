@@ -9,20 +9,21 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description == 
+== Description ==  
 
-Rosetta plugin for WordPress is designed to allow the user to form a multilanguage site simply and effectively. 
-Our plugin makes it possible for you to produce multilanguage content effectively and fast. 
-This is free version of Rosetta plugin, so it have some limitations. 
+Rosetta plugin for WordPress is designed to give the user a simple and effective way to make a multilanguage website. 
+It makes possible to easily produce and manage with the multilanguage content.
+
+This free version of Rosetta plugin has some limitations.
 
 Here is a quick overview of free version features:
 
 1. Multilanguage from the box - everything required already included
-2. Short and simple configuration.
+2. Quick and simple configuration.
 3. Host versatility - use pre-configured host names or form automatic URLs.
 4. Multilanguage post content editing via tabs in post edit WordPress section
-5. Localization of site title, description and menu
-6. Language switch widget 
+5. Website title, description and menu localization
+6. Language switching widget 
 7. Plugin localization support
 
 Leran more about full version on 
@@ -46,13 +47,14 @@ That’s all - we hope that you’ll like our plugin. Any suggestions, questions
 == Frequently Asked Questions ==
 = Can I use host names for multiple languages? =
 Yes, you can. 
-= What features I will have in full version? =
-1. Localization of post tags and categories
-2. Localization of post featured images
-3. Localization of custom metabox
-4. Admin bar language switch
-5. Multisite support
-6. "Transfer default language content" switcher
+= What do I get with the full version? =
+
+1.Post tags and categories localization
+2.Post featured images localization
+3.Custom metabox localization
+4.Admin bar language switching
+5.Multi-website support
+6."Transfer default language content" switcher
 
 For any questions mail to ruslan.khakimov@frumatic.com
 
