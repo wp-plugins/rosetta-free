@@ -11,17 +11,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==  
 
-Rosetta plugin for WordPress is designed to give the user a simple and effective way to make a multilanguage website. 
-It makes possible to easily produce and manage with the multilanguage content.
+Rosetta plugin for WordPress is designed to give the user a simple and effective way to make a multilingual website. 
+It makes it possible to easily produce and manage multilingual content.
 
 This free version of Rosetta plugin has some limitations.
 
 Here is a quick overview of free version features:
 
-1. Multilanguage from the box - everything required already included
+1. Multi-language from the box - everything required already included
 2. Quick and simple configuration.
-3. Host versatility - use pre-configured host names or form automatic URLs.
-4. Multilanguage post content editing via tabs in post edit WordPress section
+3. Host versatility - use preconfigured host names or form automatic URLs.
+4. Multilingual post content editing via tabs in post edit WordPress section
 5. Website title, description and menu localization
 6. Language switching widget 
 7. Plugin localization support
