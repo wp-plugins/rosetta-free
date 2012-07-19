@@ -1,6 +1,6 @@
 ﻿=== Rosetta plugin ===
 
-Contributors: !wordpress users! (this should be a list of wordpress.org userid's)
+Contributors: Ruslan.Khakimov
 Donate link: http://store.theme.fm/plugins/rosetta/
 Tags: languages, localization, multilanguage
 Requires at least: 3.1
@@ -10,6 +10,8 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==  
+
+Rosetta renamed to Stella! Check out last version at http://wordpress.org/extend/plugins/stella-free/
 
 Rosetta plugin for WordPress is designed to give the user a simple and effective way to build a multi-language website. 
 It makes it possible to easily produce and manage multilingual content.
